@@ -1,0 +1,4 @@
+1. Narrative: Player takes part in a story that connects the cultural challenges.
+2. Explorative quizzes: Questions show while player explores the map.
+3. Cultural missions: Progression based on accomplishing thematic journeys.
+	

@@ -1,0 +1,30 @@
+Plataformas
+Web App Responsivo: Foco em acessibilidade via browser, permitindo que a narrativa seja consumida em qualquer dispositivo.
+Dashboard para Educadores: Foco em dados narrativos (ex: "quais temas despertaram mais interesse nos alunos").
+2. Público-alvo
+Faixa Etária: 18 a 30 anos (público que aprecia narrativas profundas, como em RPGs ou Visual Novels).
+Perfil: Jovens e educadores interessados em Storytelling e aprendizado contextualizado.
+Acessibilidade: Essencial para a narrativa — audiodescrição das cenas, legendas para diálogos e suporte a Libras para conteúdos em vídeo/animação.
+3. Resumo da História do Jogo
+O mundo perdeu a cor e a memória de suas raízes culturais após um evento chamado "O Grande Esquecimento". O jogador assume o papel de um Curador Viajante que possui o último mapa das relíquias culturais. Ao explorar o mapa, ele interage com personagens e reconstrói a história da humanidade, devolvendo o sentido e a cor aos lugares conforme resolve os enigmas e desafios.
+
+4. Gameplay (Mecânicas e Fluxo)
+Gênero: Aventura Narrativa / Quiz de Exploração.
+Câmeras: Visão de Mapa (Isométrica ou Top-down) com transições para cenas ilustradas de diálogos.
+Mecânicas Básicas:
+Exploração Ativa: O jogador move seu avatar pelo mapa. Ao entrar em "zonas culturais", eventos narrativos são disparados.
+Quiz Exploratório: As perguntas não são aleatórias; elas surgem como diálogos com NPCs ou investigação de objetos no cenário (ex: "Para abrir este baú renascentista, você deve identificar o autor desta técnica...").
+Missões Culturais (Jornadas): O progresso é dividido em arcos temáticos (ex: Jornada do Sol: A Arte Egípcia; Jornada da Luz: O Impressionismo).
+Progressão: Baseada na conclusão de capítulos da história. Cada missão completada desbloqueia uma nova área do mapa e novos fragmentos de narrativa.
+Recompensas: Itens de inventário que contam a história do mundo e "Páginas do Códice" (uma enciclopédia interna que o jogador preenche ao longo da jornada).
+5. Diferenciais de Venda
+Conhecimento com Propósito: O jogador não responde perguntas apenas para ganhar pontos, mas para salvar personagens e avançar na trama.
+Engajamento Emocional: A narrativa cria um vínculo com o conteúdo cultural, tornando o aprendizado mais memorável.
+Flexibilidade Temática: O sistema de "Missões" permite adicionar novos conteúdos históricos ou regionais facilmente via atualizações.
+7. Produtos Concorrentes
+Carmen Sandiego (Google Earth Edition): Pela exploração geográfica educativa.
+80 Days: Pela narrativa rica focada em viagem e escolhas.
+Sky: Children of the Light: Pela atmosfera de descoberta e restauração do mundo.
+8. Referências
+Visual: Estética de aquarela ou arte desenhada à mão (para reforçar o tom artístico).
+Narrativa: Estrutura de jornadas heroicas e mistérios históricos (estilo O Código Da Vinci ou Indiana Jones em versão educativa).
